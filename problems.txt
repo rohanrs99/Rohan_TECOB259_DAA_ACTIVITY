@@ -1,0 +1,9 @@
+1)Find_Digits:-
+https://www.hackerrank.com/challenges/find-digits/problem
+2)Forming a magic Square :-
+https://www.hackerrank.com/challenges/magic-square-forming/problem
+3)MinMax sum:-
+https://www.hackerrank.com/challenges/mini-max-sum/problem
+4)Simple Array Sum:-
+https://www.hackerrank.com/challenges/simple-array-sum/problem
+
